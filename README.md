@@ -1,2 +1,2 @@
-# blog-comment
-Blog comment by giscus
+# efihub.comment
+EFIhub comment by giscus
